@@ -1,4 +1,4 @@
 # DBRAF
 Dragon Ball Rage Auto Farmer
-## How it's work ?
-This program farm automaticly for you Agility,KI,Defense and More
+## A quoi ça sert ?
+Ce programme permet de farmer sur Dragon Ball Rage a votre place (incroyable non ?)
